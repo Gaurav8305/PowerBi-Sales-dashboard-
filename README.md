@@ -1,7 +1,6 @@
 # PowerBi-Sales-dashboard-
 ## Overview
 This Power BI Sales Dashboard provides an interactive analysis of sales performance, profit trends, regional sales distribution, customer segments, payment modes, and shipping methods. The dashboard helps identify business trends, monitor KPIs, and support data-driven decision-making.
-## Dashboard Preview
 ## Key Features
 
 - Sales Performance Analysis
